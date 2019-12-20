@@ -1,1 +1,2 @@
 https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/
+https://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038059.25368.pdf
