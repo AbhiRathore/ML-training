@@ -1,0 +1,17 @@
+# import pandas as pd
+# import matplotlib.pyplot as plt
+# import numpy as np
+# %matplotlib inline
+
+
+# s1= pd.Series(np.random.rand(10))
+# s2= pd.Series(np.random.randn(10))
+
+# fig, axes = plt.subplots(nrows=1,ncols=1)
+
+# f1= s1.plot(ax=axes,label='s1')
+# l1=axes.axhline(0.5,color='black',ls='--')
+# l1.set_label('l1')
+# f2=s2.plot(ax=axes,label='s2')
+# axes.legend(loc='best')
+
