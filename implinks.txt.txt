@@ -6,6 +6,7 @@ https://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038
 \displaystyle \frac{\partial}{\partial\theta_0}\left(\frac{1}{2m}\sum_{i=1}^{m} \left(\theta_0+\theta_1x^{(i)}-y^{(i)}\right)^2 \right) = \frac{1}{m}\sum_{i=1}^{m} \left(\theta_0+\theta_1x^{(i)}-y^{(i)}\right) = \frac{1}{m}\sum_{i=1}^{m} \left(h_{\theta}(x^{(i)})-y^{(i)}\right)
 \end{equation*}
 
+https://github.com/eriklindernoren/ML-From-Scratch
 
 https://ml-cheatsheet.readthedocs.io/en/latest/index.html
 https://www.hackerearth.com/blog/developers/gradient-descent-algorithm-linear-regression/
