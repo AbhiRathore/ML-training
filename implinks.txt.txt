@@ -7,6 +7,16 @@ https://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038
 \end{equation*}
 
 
+<<<<<<< HEAD
+## dbscan
+https://www.geeksforgeeks.org/dbscan-clustering-in-ml-density-based-clustering/
+https://blog.dominodatalab.com/topology-and-density-based-clustering/
+https://app.dominodatalab.com/u/LeJit/Clustering/view/Clustering.ipynb
+
+=======
+https://github.com/eriklindernoren/ML-From-Scratch
+>>>>>>> 5f52d286f3947b304bc74a67f600d0b3c5cfc823
+
 https://ml-cheatsheet.readthedocs.io/en/latest/index.html
 https://www.hackerearth.com/blog/developers/gradient-descent-algorithm-linear-regression/
 https://github.com/chasinginfinity/ml-from-scratch/blob/master/02%20Linear%20Regression%20using%20Gradient%20Descent/Linear%20Regression%20using%20Gradient%20Descent.ipynb
