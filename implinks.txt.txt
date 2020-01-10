@@ -1,6 +1,12 @@
 https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/
 https://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038059.25368.pdf
 
+# random forest and ensemble /stack
+https://github.com/arpitgambhir/Credit-Card-Fraud-Detection/blob/master/CreditCardFraudDetection.ipynb
+https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python
+https://github.com/karvenka/kaggle-airbnb
+
+
 http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 \begin{equation*}
